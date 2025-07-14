@@ -1,9 +1,10 @@
 [submodule "todo-backend"]
-	path = todo-backend
-	url = https://github.com/Felix-LeeSM/todo-backend
+path = todo-backend
+url = https://github.com/Felix-LeeSM/todo-backend
+	branch = main
 [submodule "todo-frontend"]
-	path = todo-frontend
-	url = https://github.com/Felix-LeeSM/todo-frontend
+path = todo-frontend
+url = https://github.com/Felix-LeeSM/todo-frontend
 [submodule "portfolio"]
-	path = portfolio
-	url = https://github.com/Felix-LeeSM/portfolio
+path = portfolio
+url = https://github.com/Felix-LeeSM/portfolio
